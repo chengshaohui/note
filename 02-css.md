@@ -10,7 +10,7 @@ typora-root-url: images
 ### reset.css
 
 ```css
-body {margin: 0;font:12px font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;background: #fff;}
+body {margin: 0;font-size:12px;font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;background: #fff;}
 h1,h2,h3,h4,h5,h6,p {margin: 0;}
 ul,ol,dl,dt,dd {margin: 0;padding:0;}
 li {list-style: none;}
